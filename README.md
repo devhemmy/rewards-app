@@ -28,7 +28,7 @@ Your development environment **must** be set up correctly for React Native CLI. 
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/devhemmy/rewards-app
     cd RewardsApp
     ```
 
